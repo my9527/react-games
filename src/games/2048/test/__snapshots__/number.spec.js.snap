@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CmptNumber 1`] = `
+<div
+  className="cmpt cmpt-number"
+  style={
+    Object {
+      "backgroundColor": undefined,
+      "color": "white",
+    }
+  }
+>
+  5
+</div>
+`;
